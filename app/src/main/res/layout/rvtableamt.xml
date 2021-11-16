@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvPrimaryId"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="@string/id"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvQuantity"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/qunt"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvListPrice"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/list_price"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvDisc"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/discount"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvPrice"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/price"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvTaxable"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/taxable_value"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvTaxRate"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tax_rate"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvGST"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cgst_sgst"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvTotal"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="@string/total_amount"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+</LinearLayout>
+
+

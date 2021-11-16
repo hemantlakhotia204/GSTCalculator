@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GSTCalculator</string>
+    <string name="etSellPrice">Sell Price/Qnt* :</string>
+    <string name="etQuantity">Quantity*</string>
+    <string name="tvListPrice">List Price:</string>
+    <string name="tvTaxValue">Taxable Value:</string>
+    <string name="tvGST">SGST/CGST:</string>
+    <string name="tvTotal">Total Amount:</string>
+    <string name="btnGet">Get Values</string>
+    <string name="etDiscount">Discount</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_home">Home</string>
+    <string name="qunt">Quantity</string>
+    <string name="list_price">List Price</string>
+    <string name="discount">Discount</string>
+    <string name="price">Price</string>
+    <string name="taxable_value">Taxable Value</string>
+    <string name="tax_rate">Tax Rate</string>
+    <string name="cgst_sgst">CGST/SGST</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="total_rs">Total RS.</string>
+    <string name="menu_table">Table</string>
+    <string name="_18">18%</string>
+    <string name="_0">0</string>
+    <string name="_12">12%</string>
+    <string name="_05">05%</string>
+    <string name="id">ID</string>
+
+</resources>
